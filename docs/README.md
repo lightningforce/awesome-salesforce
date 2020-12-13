@@ -18,7 +18,7 @@ Table of Contents
 
 ## Salesforce Signup
 * [Salesforce Developer Account](https://developer.salesforce.com/signup) - Signup for Free Salesforce Developer Account.
-*[Salesforce Einstein Analytics Account](https://developer.salesforce.com/promotions/orgs/analytics-de) - Einstein Analytics-enabled Developer Edition that comes with a limited Einstein Analytics Platform license.
+* [Salesforce Einstein Analytics Account](https://developer.salesforce.com/promotions/orgs/analytics-de) - Einstein Analytics-enabled Developer Edition that comes with a limited Einstein Analytics Platform license.
 
 ## Learning Salesforce
 * [Trailhead](https://developer.salesforce.com/trailhead) - Official Learning Platform from Salesforce for aspiring Salesforce Developers, Architects, Administrators and Business Analysts.
